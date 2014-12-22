@@ -1,0 +1,1 @@
+This is me going through the book "Introduction to Algorithms" as preperation for further study of computer science in about a months time. GL HF
